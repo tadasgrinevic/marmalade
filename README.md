@@ -11,10 +11,10 @@ Added UK's postcodes checker;
 
 
 Included other checks like:
-Check if request's JSON is valid (catching error codes -> https://www.php.net/manual/en/function.json-last-error.php )
-Check if request's Method is POST
-Check if request's Content-Type is application/json
-Check if request contain any data & has specific fields (age, postcode, regNo) - could add age range check as well, but I'll skip that
+Check if request's JSON is valid (catching error codes -> https://www.php.net/manual/en/function.json-last-error.php );
+Check if request's Method is POST;
+Check if request's Content-Type is application/json;
+Check if request contain any data & has specific fields (age, postcode, regNo) - could add age range check as well, but I'll skip that.
 
 
 Added 3rd party API connection to get ABI code ( https://api.dvlasearch.co.uk/ -> it is  https://ukvehicledata.co.uk/ )
