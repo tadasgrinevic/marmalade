@@ -2,7 +2,7 @@
 RESTful API (JSON payload)
 
 
-I created Quote Entity & Repository in order to use SQL queries for quotation table;
+I created Quote Entity & Repository in order to use SQL queries for quotation table.
 I've seen people getting it done in other ways as well, where they use Repository or Query Builder
 Could use Repository in order to get Quote data from DB, because I have created it's Entity already. Could create new Route to "show" Quotes list via JSON Request and etc.  I also used Annotations for routing instead of routes.yaml
 
