@@ -1,4 +1,5 @@
 # marmalade
+REST Web Application that calculates car insurance qoute sent via JSON with Vehicle's Reg. number, post code, age fields/data and saves all data to database, sends response back.
 ## RESTful API (JSON payload)
 
 
