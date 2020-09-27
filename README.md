@@ -17,7 +17,7 @@ Could use Repository in order to get Quote data from DB, because I have created 
 - Check if request contain any data & has specific fields (age, postcode, regNo) - could add age range check as well, but I'll skip that.
 
 
-- Added 3rd party API connection to get ABI code ( [DVLASearch](https://api.dvlasearch.co.uk) -> it is  [UKVehicleData](https://ukvehicledata.co.uk/) )
+Added 3rd party API connection to get ABI code ( [DVLASearch](https://api.dvlasearch.co.uk) -> it is  [UKVehicleData](https://ukvehicledata.co.uk/) )
 I couldn't find any website where I could get ABI code, so instead of getting ABI code it gets VIN by regNo.
 I know that DVLA could provide some access to use their tools & DB for checking cars and etc., for Developers or companies, there is also other website's, who provide those features, but they charge per JSON/XML Request.
 I've seen that 3rd party API could be connected and used via Symfony in other ways;
