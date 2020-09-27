@@ -1,5 +1,5 @@
 # marmalade
-**Symfony 5** REST Application calculates car insurance qoute sent via JSON with Vehicle's Reg. number, post code, age fields/data and saves all data to database, sends response back.
+**Symfony 5** REST Application calculates car insurance qoute sent via JSON with Vehicle's Reg. number, post code, age fields/data and saves all data to MySQL database, sends response back.
 ## RESTful API (JSON payload)
 
 
